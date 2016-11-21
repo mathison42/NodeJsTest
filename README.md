@@ -1,12 +1,7 @@
-[Test Node.js Example](https://developers.google.com/sheets/quickstart/nodejs)
+Node.js Example
 
+Various Node.js examples I've followed. Meant for quick testing and learning purposes.
 
-Set Up
--
-    Run: npm install googleapis --save
-    Run: npm install google-auth-library --save
-    Place a Google Sheets API client_secret.json in the src/main/resources folder.
-
-Run
--
-    node src/main/javascript/quickstart.js
+- [Express Generator App Example](http://expressjs.com/en/starter/generator.html)
+- [Google Sheets Example](https://developers.google.com/sheets/quickstart/nodejs)
+- [Hello World Express App Example](http://expressjs.com/en/starter/hello-world.html)
